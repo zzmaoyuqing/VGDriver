@@ -1,0 +1,9 @@
+learning_rate: 0.005
+weight_decay: 0.0005 # no str
+batch_size: 128
+epochs: 400
+patience: 100
+kfold: 5
+test_percent: 0.2
+threshold: 0.5
+gamma: 2

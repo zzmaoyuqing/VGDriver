@@ -1,0 +1,12 @@
+image_size: 224
+ch: 3           # channel
+patch_size: 16
+num_classes: 1
+dim: 256
+depth: 1
+heads: 6
+mlp_dim: 1024
+dim_head: 64
+dropout: 0.5
+emb_dropout: 0.2
+

@@ -1,0 +1,8 @@
+out_dim: 224     # same as image_size
+dropout: 0.2
+
+hidden_dim1: 224
+hidden_dim2: 512
+
+channel: 3
+
